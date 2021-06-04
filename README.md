@@ -1,5 +1,5 @@
 # Heroku-Demo-salary-prediction
-credits: krish naik sir
+
 
 *Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
 
@@ -65,3 +65,5 @@ credits - Krish naik sir's youtube video
 ## Contact
 
 * Feel free to contact team leads with any questions or if you are interested in contributing!
+
+Ml project credits: krish naik sir
