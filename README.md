@@ -3,7 +3,7 @@
 
 *Instructions: 
 # Project Name
-This project is a part of the Ml prediction and deployment on Heroku Platform.
+This project is a part of the ML prediction and deployment on Heroku Platform.
 
 #### -- Project Status: public
 
