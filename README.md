@@ -1,4 +1,4 @@
-# [Heroku-Demo-salary-prediction](https://salary-predict-parag.herokuapp.com/predict)
+# [Heroku-Demo-salary-prediction]
 
 
 *Instructions: 
