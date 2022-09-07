@@ -1,5 +1,4 @@
-# Project DEployment Link Below 
-# [Heroku-Demo-salary-prediction](https://salary-predict-parag.herokuapp.com/)
+# Please Click Project Deployment Link >>>    [Heroku-Demo-salary-prediction](https://salary-predict-parag.herokuapp.com/)
 
 
 
