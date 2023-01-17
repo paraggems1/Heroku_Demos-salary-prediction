@@ -1,4 +1,4 @@
-# Please Click Project Deployment Link >>>    [Heroku-Demo-salary-prediction](https://salary-predict-parag.herokuapp.com/)
+# Please Click Project Deployment Link >>>    [Heroku-Demo-salary-prediction](https://salary-predict-parag.herokuapp.com/)   APP IS Down Becoz Heroku is not Free Now from 28 NOV 2022! 
 
 
 
